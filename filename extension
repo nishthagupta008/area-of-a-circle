@@ -1,0 +1,3 @@
+f = input("Input the Filename: ")
+filex = filename.split(".")
+print ("Extension of the file is " + repr(filex[-1]))
